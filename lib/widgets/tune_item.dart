@@ -1,5 +1,8 @@
-import 'package:flutter/material.dart';
-import 'package:tune/models/tune_model.dart';
+
+
+import 'package:flutter/cupertino.dart';
+
+import '../models/tune_model.dart';
 
 class TuneItem extends StatelessWidget {
   const TuneItem({
